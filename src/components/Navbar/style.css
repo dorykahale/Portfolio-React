@@ -1,0 +1,22 @@
+.Navbar {
+    padding: 10px;
+    width: 100%;
+    color: #9ba3ac
+
+}
+
+.Span {
+    margin-left: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;    
+    color: #9ba3ac;
+
+}
+
+.nav-link {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #9ba3ac;  
+}
+#navbrand {
+    Color: #9ba3ac;
+}
