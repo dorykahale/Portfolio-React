@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.67918527.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.7b754f35.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.7b754f35.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.df03338a.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.df03338a.js.map",
+    "static/js/2.03a51885.chunk.js": "/Portfolio-React/static/js/2.03a51885.chunk.js",
+    "static/js/2.03a51885.chunk.js.map": "/Portfolio-React/static/js/2.03a51885.chunk.js.map",
+    "static/js/3.ea548e7e.chunk.js": "/Portfolio-React/static/js/3.ea548e7e.chunk.js",
+    "static/js/3.ea548e7e.chunk.js.map": "/Portfolio-React/static/js/3.ea548e7e.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/main.67918527.chunk.css.map": "/Portfolio-React/static/css/main.67918527.chunk.css.map",
+    "static/js/2.03a51885.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.03a51885.chunk.js.LICENSE.txt",
+    "static/media/DirtyMcKenzie.32aa04a3.jpg": "/Portfolio-React/static/media/DirtyMcKenzie.32aa04a3.jpg",
+    "static/media/EatDaBurger.e46237a6.png": "/Portfolio-React/static/media/EatDaBurger.e46237a6.png",
+    "static/media/mixlive-main.629538a4.png": "/Portfolio-React/static/media/mixlive-main.629538a4.png",
+    "static/media/project1-main.8e9377d2.png": "/Portfolio-React/static/media/project1-main.8e9377d2.png",
+    "static/media/pwgen-main.9406b90b.png": "/Portfolio-React/static/media/pwgen-main.9406b90b.png",
+    "static/media/quilava.e18d3815.png": "/Portfolio-React/static/media/quilava.e18d3815.png",
+    "static/media/scheduler-main.0fe7c081.png": "/Portfolio-React/static/media/scheduler-main.0fe7c081.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df03338a.js",
+    "static/js/2.03a51885.chunk.js",
+    "static/css/main.67918527.chunk.css",
+    "static/js/main.7b754f35.chunk.js"
+  ]
+}
