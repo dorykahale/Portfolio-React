@@ -10,32 +10,28 @@ const projectsArr = [
     "id": 1,
     "name": "Mixlive",
     "image": mixlive,
-    "description": "Streaming for Artists & DJs",
-    "repo": "",
+    "description": "Streaming Platform for Artists & DJs",
     "deployed": ""
   },
   {
     "id": 2,
     "name": "Quilava",
     "image": quilava,
-    "description": "",
-    "repo": "",
+    "description": "Social Creative Space for Artists",
     "deployed": ""
   },
   {
     "id": 3,
     "name": "Scheduler",
     "image": scheduler,
-    "description": "",
-    "repo": "",
+    "description": "Schedule Things",
     "deployed": ""
   },
   {
     "id": 4,
     "name": "Recipe Saver",
     "image": recipe,
-    "description": "",
-    "repo": "",
+    "description": "Save Online Recipes",
     "deployed": ""
   },
   {
@@ -43,15 +39,13 @@ const projectsArr = [
     "name": "Eat Da Burger",
     "image": EatDaBurger,
     "description": "Not for those on a diet",
-    "repo": "",
     "deployed": ""
   },
   {
     "id": 6,
     "name": "Password Generator",
     "image": pwgen,
-    "description": "",
-    "repo": "",
+    "description": "Generates Random Passwords",
     "deployed": ""
   },
 ]

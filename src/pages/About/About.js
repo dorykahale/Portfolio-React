@@ -12,7 +12,7 @@ const AboutPage = (props) => (
       <hr />
       <AboutInfo />
       <hr />
-      {/* <AboutLinks /> */}
+      <AboutLinks />
     </div>
     <br /> <br /> <br />
   </>
